@@ -1,3 +1,6 @@
 fav food1
 fav food2
 fav food3
+fav movie1
+fav movie2
+fav movie3
